@@ -123,3 +123,6 @@ h4  {
   font-family: impact;
   box-shadow: 5px 5px 5px #ffffff;
 }
+html{
+  scroll-behavior:smooth;
+}
