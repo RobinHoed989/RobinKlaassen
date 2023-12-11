@@ -1,0 +1,125 @@
+.topnav {
+  background-color: #a00101d0;
+  overflow: hidden;
+  position: fixed; 
+  right: 10; 
+  bottom: 0; 
+  height: 25%; 
+  border-radius: 6px;
+  color: #ffffff;
+  font-family: impact;
+  }
+.topnav a {
+  color: #ffffff;
+  display: block;
+  width: 100%; 
+  text-align: center;
+  padding: 12px 4px;
+  text-decoration: none;
+  font-family: impact;
+  }
+  
+
+.topnav a:hover {
+  background-color: #a00101d0;
+  color: #ffffff;
+  font-family: impact;
+  }
+body{
+  background-color: #026349;
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+#badge {
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  text-align: center;
+  background-color: #038864;
+  box-shadow: 3px 3px 5px #ffffff;
+  border-radius: 10px;
+  font-size: large;
+  font-family: "Arial", sans-serif; 
+  }
+#port{
+  font-size: large;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background-color: #038864;
+  box-shadow: 3px 3px 5px #ffffff;
+  border-radius: 10px;
+  font-family: "Arial", sans-serif; 
+}
+#hoi{
+  font-size: large;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background-color: #038864;
+  box-shadow: 3px 3px 5px #ffffff;
+  border-radius: 10px;
+  font-family: "Arial", sans-serif; 
+}
+
+#de{
+  font-size: large;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background-color: #038864;
+  box-shadow: 3px 3px 5px #ffffff;
+  border-radius: 10px;
+  font-family: "Arial", sans-serif; 
+}
+#cont{
+  font-size: large;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background-color: #038864;
+  box-shadow: 3px 3px 5px #ffffff;
+  border-radius: 10px;
+  font-family: "Arial", sans-serif; 
+}
+img {
+    align-items: center;
+    width: 500px;
+    height: auto;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px #ffffff;
+  }
+
+h1{
+  
+  background-color: #a00101d0;
+  text-align: center;
+  font-family: impact;
+  box-shadow: 5px 5px 5px #ffffff;
+}
+h2{
+  margin-left: 30%;
+  width: 40%;
+  background-color: #a00101d0;
+  text-align: center;
+  font-family: impact;
+  box-shadow: 5px 5px 5px #ffffff;
+}
+h3{
+  margin-left: 30%;
+  width: 40%;
+  background-color: #a00101d0;
+  text-align: center;
+  font-family: impact;
+  box-shadow: 5px 5px 5px #ffffff;
+}
+h4  {
+  margin-left: 30%;
+  width: 40%;
+  background-color: #a00101d0;
+  text-align: center;
+  font-family: impact;
+  box-shadow: 5px 5px 5px #ffffff;
+}
